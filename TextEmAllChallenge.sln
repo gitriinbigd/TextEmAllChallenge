@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEmAll", "TextEmAll\TextEmAll.csproj", "{F66A71F9-CCD3-47FA-9712-0AB03C337543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEmAll.Tests", "TextEmAll.Tests\TextEmAll.Tests.csproj", "{1B296C77-2549-4D29-895E-64E71BCC43DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F66A71F9-CCD3-47FA-9712-0AB03C337543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66A71F9-CCD3-47FA-9712-0AB03C337543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66A71F9-CCD3-47FA-9712-0AB03C337543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66A71F9-CCD3-47FA-9712-0AB03C337543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B296C77-2549-4D29-895E-64E71BCC43DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B296C77-2549-4D29-895E-64E71BCC43DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B296C77-2549-4D29-895E-64E71BCC43DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B296C77-2549-4D29-895E-64E71BCC43DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BFB21B3-1372-41E9-A1C0-557FCCC5B7AC}
+	EndGlobalSection
+EndGlobal
